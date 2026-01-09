@@ -1,0 +1,13 @@
+name: sparkle
+version: 0.1.0
+
+authors:
+  - Your Name <your@email.com>
+
+targets:
+  sparkle:
+    main: src/sparkle.cr
+
+crystal: 1.18.2
+
+license: MIT
