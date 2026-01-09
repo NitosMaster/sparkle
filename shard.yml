@@ -10,9 +10,10 @@ targets:
 
 dependencies:
   glfw:
-    github: jhass/crystal-glfw
-  gl:
-    github: n_m3/crystal-gl
+    github: icy-arctic-fox/glfw.cr
+  opengl:
+    github: icy-arctic-fox/opengl.cr
+    branch: gl-4.6-core
 
 crystal: 1.18.2
 
