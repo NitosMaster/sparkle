@@ -10,7 +10,7 @@ targets:
 
 dependencies:
   glfw:
-    github: ghass/crystal-glfw
+    github: jhass/crystal-glfw
   gl:
     github: n_m3/crystal-gl
 
